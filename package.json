@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server app mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aulia Sabri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
